@@ -62,14 +62,14 @@
             alt="whh32" width="495px" />
     </a>
 </p>
-<p>
+<!-- <p>
     <a href="#">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=whh-32&show_icons=true&locale=en"
             alt="whh32" />
     </a>
-</p>
-<p>
+</p> -->
+<!-- <p>
     <a href="#">
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=whh-32&" alt="whh32" />
     </a>
-</p>
+</p> -->
